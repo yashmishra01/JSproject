@@ -1,0 +1,32 @@
+{
+  "name": "mishraherokupg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashmishra01/mishraherokupg.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "quiz4"
+  ],
+  "author": "yash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashmishra01/mishraherokupg/issues"
+  },
+  "homepage": "https://github.com/yashmishra01/mishraherokupg#readme",
+  "dependencies": {
+    "datenv": "0.0.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
